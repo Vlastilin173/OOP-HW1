@@ -1,10 +1,10 @@
 package Domen;
 
-public class HotDrink extends Product {
+public class HotDrink extends Bottle {
     private int temper;
 
     /**
-     * Создать наследника Product
+     * Создать наследника bottle
      * дополнительным полем температура.
      * 
      * @param productId
